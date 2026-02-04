@@ -1,6 +1,8 @@
-**SEGURIDAD EN REDES Y SISTEMAS DE SOFTWARE**
-**Notas de Hacking de Los Retos Resueltas En El Semestre**
+# Seguridad en Redes y Sistemas de Software
 
-- Jaime Gabriel Robles Felix
-- 42306408
+## Notas de Hacking de los Retos Resueltos en el Semestre
+
+**Autor:**
+- Jaime Gabriel Robles Felix  
+- Matrícula: 42306408  
 - robles.felix.jaimegabriel@gmail.com
