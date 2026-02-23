@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - General Skills/29.- PW Crack 3.md",
+                "file": "picoCTF/02 - Web/1.- Insp3ct0r.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "29.- PW Crack 3"
+              "title": "1.- Insp3ct0r"
             }
           }
         ],
@@ -200,8 +200,15 @@
   },
   "active": "f85f300e5189d576",
   "lastOpenFiles": [
-    "picoCTF/01 - General Skills/30.- Serpentine.md",
+    "picoCTF/02 - Web/2.- where are the robots.md",
+    "picoCTF/02 - Web/3.- logon.md",
+    "picoCTF/02 - Web/4.- dont-use-client-side.md",
+    "picoCTF/02 - Web/5.- picobrowser.md",
+    "picoCTF/02 - Web/6.- Client-side-again.md",
+    "picoCTF/02 - Web/1.- Insp3ct0r.md",
     "picoCTF/01 - General Skills/29.- PW Crack 3.md",
+    "picoCTF/02 - Web",
+    "picoCTF/01 - General Skills/30.- Serpentine.md",
     "picoCTF/01 - General Skills/28.- PW Crack 2.md",
     "picoCTF/01 - General Skills/27.- PW Crack 1.md",
     "picoCTF/01 - General Skills/26.- fixme2.py.md",
@@ -219,12 +226,6 @@
     "picoCTF/01 - General Skills/14.- Static ain't always noise.md",
     "picoCTF/01 - General Skills/13.- Wave a flag.md",
     "picoCTF/01 - General Skills/12.- strings it.md",
-    "picoCTF/01 - General Skills/11.- Based.md",
-    "picoCTF/01 - General Skills/10.- Nice netcat....md",
-    "picoCTF/01 - General Skills/1.- Lets Warm Up.md",
-    "picoCTF/01 - General Skills/9.- Glitch Cat.md",
-    "picoCTF/01 - General Skills/8.- plumbing.md",
-    "picoCTF/01 - General Skills/5.- First Grep.md",
-    "picoCTF/01 - General Skills/6.- Obedient Cat.md"
+    "picoCTF/01 - General Skills/11.- Based.md"
   ]
 }
