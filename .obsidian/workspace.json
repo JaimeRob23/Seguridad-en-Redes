@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/02 - Web/12.- JaWT Scratchpad.md",
+                "file": "picoCTF/02 - Web/16.- Most Cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.- JaWT Scratchpad"
+              "title": "16.- Most Cookies"
             }
           }
         ],
@@ -214,8 +214,12 @@
   },
   "active": "1c7dea3e246dea7d",
   "lastOpenFiles": [
-    "picoCTF/02 - Web/11.- More SQLi.md",
+    "picoCTF/02 - Web/15.- Trickster.md",
+    "picoCTF/02 - Web/16.- Most Cookies.md",
+    "picoCTF/02 - Web/14.- SOAP.md",
+    "picoCTF/02 - Web/13.- MatchTheRegex.md",
     "picoCTF/02 - Web/12.- JaWT Scratchpad.md",
+    "picoCTF/02 - Web/11.- More SQLi.md",
     "picoCTF/02 - Web/10.- Irish-Name-Repo 1.md",
     "picoCTF/02 - Web/1.- Insp3ct0r.md",
     "picoCTF/02 - Web/2.- where are the robots.md",
@@ -238,10 +242,6 @@
     "picoCTF/01 - General Skills/24.- convertme.py.md",
     "picoCTF/01 - General Skills/23.- Codebook.md",
     "picoCTF/01 - General Skills/22.- unme.py.md",
-    "picoCTF/01 - General Skills/21.- Super SSH.md",
-    "picoCTF/01 - General Skills/17.- Magikarp Ground Mission.md",
-    "picoCTF/01 - General Skills/20.- First Find.md",
-    "picoCTF/01 - General Skills/19.-Big zip.md",
-    "picoCTF/01 - General Skills/18.-repetitions.md"
+    "picoCTF/01 - General Skills/21.- Super SSH.md"
   ]
 }
