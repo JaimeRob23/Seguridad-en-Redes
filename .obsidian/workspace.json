@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/02 - Web/16.- Most Cookies.md",
+                "file": "picoCTF/03 - Forensic/5.- What Lies Within.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16.- Most Cookies"
+              "title": "5.- What Lies Within"
             }
           }
         ],
@@ -214,8 +214,14 @@
   },
   "active": "1c7dea3e246dea7d",
   "lastOpenFiles": [
-    "picoCTF/02 - Web/15.- Trickster.md",
+    "picoCTF/03 - Forensic/4.- extensions.md",
+    "picoCTF/03 - Forensic/5.- What Lies Within.md",
+    "picoCTF/03 - Forensic/3.- shark on wire 1.md",
+    "picoCTF/03 - Forensic/2.- So Meta.md",
+    "picoCTF/03 - Forensic/1.- Glory of the Garden.md",
     "picoCTF/02 - Web/16.- Most Cookies.md",
+    "picoCTF/03 - Forensic",
+    "picoCTF/02 - Web/15.- Trickster.md",
     "picoCTF/02 - Web/14.- SOAP.md",
     "picoCTF/02 - Web/13.- MatchTheRegex.md",
     "picoCTF/02 - Web/12.- JaWT Scratchpad.md",
@@ -237,11 +243,6 @@
     "picoCTF/01 - General Skills/30.- Serpentine.md",
     "picoCTF/01 - General Skills/28.- PW Crack 2.md",
     "picoCTF/01 - General Skills/27.- PW Crack 1.md",
-    "picoCTF/01 - General Skills/26.- fixme2.py.md",
-    "picoCTF/01 - General Skills/25.- fixme1.py.md",
-    "picoCTF/01 - General Skills/24.- convertme.py.md",
-    "picoCTF/01 - General Skills/23.- Codebook.md",
-    "picoCTF/01 - General Skills/22.- unme.py.md",
-    "picoCTF/01 - General Skills/21.- Super SSH.md"
+    "picoCTF/01 - General Skills/26.- fixme2.py.md"
   ]
 }
