@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/03 - Forensic/19.- Ph4nt0m 1ntrud3r.md",
+                "file": "picoCTF/02 - Web/26.- WebDecoder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19.- Ph4nt0m 1ntrud3r"
+              "title": "26.- WebDecoder"
             }
           }
         ]
@@ -185,8 +185,18 @@
   },
   "active": "1c7dea3e246dea7d",
   "lastOpenFiles": [
-    "picoCTF/03 - Forensic/18.- RED.md",
+    "picoCTF/02 - Web/25.- Uminify.md",
+    "picoCTF/02 - Web/26.- WebDecoder.md",
+    "picoCTF/02 - Web/24.- SQLiLite.md",
+    "picoCTF/02 - Web/23.- Secrets.md",
+    "picoCTF/02 - Web/22.- Roboto Sans.md",
+    "picoCTF/02 - Web/21.- Power Cookie.md",
+    "picoCTF/02 - Web/20.- Local Authority.md",
+    "picoCTF/02 - Web/19.- introtoburp.md",
+    "picoCTF/02 - Web/18.- Inspect HTML.md",
+    "picoCTF/02 - Web/17.- Includes.md",
     "picoCTF/03 - Forensic/19.- Ph4nt0m 1ntrud3r.md",
+    "picoCTF/03 - Forensic/18.- RED.md",
     "picoCTF/03 - Forensic/17.- Secret of the Polyglot.md",
     "picoCTF/03 - Forensic/16.- CanYouSee.md",
     "picoCTF/03 - Forensic/15.- Scan Surprise.md",
@@ -202,16 +212,6 @@
     "Sin título.base",
     "Sin título.md",
     "picoCTF/04 - Crypto/24.- Mini RSA.md",
-    "picoCTF/04 - Crypto/23.- flags.md",
-    "picoCTF/04 - Crypto/22.- ReadMyCert.md",
-    "picoCTF/04 - Crypto/21.- HideToSee.md",
-    "picoCTF/04 - Crypto/20.- basic-mod1.md",
-    "picoCTF/04 - Crypto/19.-Pixelated.md",
-    "picoCTF/04 - Crypto/18.- Crack the power.md",
-    "picoCTF/04 - Crypto/17.- Vigenere.md",
-    "picoCTF/04 - Crypto/16.- substitution2.md",
-    "picoCTF/04 - Crypto/15.- substitution1.md",
-    "picoCTF/04 - Crypto/14.- substitution0.md",
     "picoCTF/04 - Crypto/Sin nombre",
     "picoCTF/5.- Reversing",
     "picoCTF/04 - Crypto",
