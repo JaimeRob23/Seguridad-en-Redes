@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/04 - Crypto/27.- b00tl3gRSA3.md",
+                "file": "picoCTF/03 - Forensic/19.- Ph4nt0m 1ntrud3r.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27.- b00tl3gRSA3"
+              "title": "19.- Ph4nt0m 1ntrud3r"
             }
           }
         ]
@@ -185,8 +185,18 @@
   },
   "active": "1c7dea3e246dea7d",
   "lastOpenFiles": [
-    "picoCTF/04 - Crypto/26.- b00tl3gRSA2.md",
+    "picoCTF/03 - Forensic/18.- RED.md",
+    "picoCTF/03 - Forensic/19.- Ph4nt0m 1ntrud3r.md",
+    "picoCTF/03 - Forensic/17.- Secret of the Polyglot.md",
+    "picoCTF/03 - Forensic/16.- CanYouSee.md",
+    "picoCTF/03 - Forensic/15.- Scan Surprise.md",
+    "picoCTF/03 - Forensic/14.- hideme.md",
+    "picoCTF/03 - Forensic/13.- Redaction gone wrong.md",
+    "picoCTF/03 - Forensic/12.- St3g0.md",
+    "picoCTF/03 - Forensic/11.- Information.md",
+    "picoCTF/04 - Crypto/7.- waves over lambda.md",
     "picoCTF/04 - Crypto/27.- b00tl3gRSA3.md",
+    "picoCTF/04 - Crypto/26.- b00tl3gRSA2.md",
     "picoCTF/04 - Crypto/3.- Caesar.md",
     "picoCTF/04 - Crypto/25.- Mind your Ps and Qs.md",
     "Sin título.base",
@@ -202,17 +212,7 @@
     "picoCTF/04 - Crypto/16.- substitution2.md",
     "picoCTF/04 - Crypto/15.- substitution1.md",
     "picoCTF/04 - Crypto/14.- substitution0.md",
-    "picoCTF/04 - Crypto/13.- rail-fence.md",
-    "picoCTF/04 - Crypto/12.- morse-code.md",
-    "picoCTF/04 - Crypto/11.- Hashcrack.md",
-    "picoCTF/04 - Crypto/10.- EVEN RSA CAN BE BROKEN???.md",
-    "picoCTF/04 - Crypto/9.- credstuff.md",
-    "picoCTF/5.- Reversing/11.- Piker IV.md",
     "picoCTF/04 - Crypto/Sin nombre",
-    "picoCTF/5.- Reversing/10.- Piker III.md",
-    "picoCTF/5.- Reversing/9.- Piker II.md",
-    "picoCTF/5.- Reversing/8.- Piker I.md",
-    "picoCTF/5.- Reversing/7.- Timer.md",
     "picoCTF/5.- Reversing",
     "picoCTF/04 - Crypto",
     "picoCTF/03 - Forensic",
