@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/04 - Crypto/28.- RSA-POP-QUIZ.md",
+                "file": "picoCTF/01 - General Skills/40.- ASCII Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28.- RSA-POP-QUIZ"
+              "title": "40.- ASCII Numbers"
             }
           }
         ]
@@ -185,8 +185,18 @@
   },
   "active": "1c7dea3e246dea7d",
   "lastOpenFiles": [
-    "picoCTF/02 - Web/20.- Local Authority.md",
+    "picoCTF/01 - General Skills/39.- binhexa.md",
+    "picoCTF/01 - General Skills/40.- ASCII Numbers.md",
+    "picoCTF/01 - General Skills/38.- binary search.md",
+    "picoCTF/01 - General Skills/37.- Collaboriteve Development.md",
+    "picoCTF/01 - General Skills/36.- Blame Game.md",
+    "picoCTF/01 - General Skills/35.- Time Machine.md",
+    "picoCTF/01 - General Skills/34.- Commitment Issues.md",
+    "picoCTF/01 - General Skills/33.- special.md",
+    "picoCTF/01 - General Skills/32.- chrono.md",
+    "picoCTF/01 - General Skills/31.- permissions.md",
     "picoCTF/04 - Crypto/28.- RSA-POP-QUIZ.md",
+    "picoCTF/02 - Web/20.- Local Authority.md",
     "picoCTF/02 - Web/19.- introtoburp.md",
     "picoCTF/02 - Web/26.- WebDecoder.md",
     "picoCTF/02 - Web/25.- Uminify.md",
@@ -201,17 +211,7 @@
     "picoCTF/03 - Forensic/17.- Secret of the Polyglot.md",
     "picoCTF/03 - Forensic/16.- CanYouSee.md",
     "picoCTF/03 - Forensic/15.- Scan Surprise.md",
-    "picoCTF/03 - Forensic/14.- hideme.md",
-    "picoCTF/03 - Forensic/13.- Redaction gone wrong.md",
-    "picoCTF/03 - Forensic/12.- St3g0.md",
-    "picoCTF/03 - Forensic/11.- Information.md",
-    "picoCTF/04 - Crypto/7.- waves over lambda.md",
-    "picoCTF/04 - Crypto/27.- b00tl3gRSA3.md",
-    "picoCTF/04 - Crypto/26.- b00tl3gRSA2.md",
-    "picoCTF/04 - Crypto/3.- Caesar.md",
-    "picoCTF/04 - Crypto/25.- Mind your Ps and Qs.md",
     "Sin título.base",
-    "Sin título.md",
     "picoCTF/04 - Crypto/Sin nombre",
     "picoCTF/5.- Reversing",
     "picoCTF/04 - Crypto",
