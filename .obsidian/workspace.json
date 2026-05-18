@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/03 - Forensic/25.- Operation Oni.md",
+                "file": "picoCTF/03 - Forensic/30.- Shark on wire 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25.- Operation Oni"
+              "title": "30.- Shark on wire 2"
             }
           }
         ]
@@ -185,8 +185,13 @@
   },
   "active": "1c7dea3e246dea7d",
   "lastOpenFiles": [
-    "picoCTF/03 - Forensic/24.- Operation Orchid.md",
+    "picoCTF/03 - Forensic/29.- like1000.md",
+    "picoCTF/03 - Forensic/30.- Shark on wire 2.md",
+    "picoCTF/03 - Forensic/28.- c0rrupt.md",
+    "picoCTF/03 - Forensic/27.- WhitePages.md",
+    "picoCTF/03 - Forensic/26.- m00nwalk.md",
     "picoCTF/03 - Forensic/25.- Operation Oni.md",
+    "picoCTF/03 - Forensic/24.- Operation Orchid.md",
     "picoCTF/03 - Forensic/23.-Sleuthkit Apprentice.md",
     "picoCTF/03 - Forensic/22.-Sleuthkit Intro.md",
     "picoCTF/03 - Forensic/21.- Disk, disk, sleuth!.md",
@@ -206,12 +211,7 @@
     "picoCTF/5.- Reversing 1/3.- Vault door 3.md",
     "picoCTF/5.- Reversing 1/2.- Vault dor 1.md",
     "picoCTF/5.- Reversing 1/11.- Piker IV.md",
-    "picoCTF/5.- Reversing 1/10.- Piker III.md",
-    "picoCTF/5.- Reversing 1/1.- vault-door-training.md",
     "picoCTF/5.- Reversing 1",
-    "Examen 1 - Web/JavaCodeAnalysis.md",
-    "Examen 1 - Web/Bookmarklet.md",
-    "Examen 1 - Web/Cookie Monster Secret Recipe.md",
     "Examen 1 - Web",
     "Examen 1 - General Skills",
     "Sin título.base",
