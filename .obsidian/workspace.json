@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/5.- Reversing/ASM3.md",
+                "file": "picoCTF/03 - Forensic/25.- Operation Oni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASM3"
+              "title": "25.- Operation Oni"
             }
           }
         ]
@@ -185,9 +185,15 @@
   },
   "active": "1c7dea3e246dea7d",
   "lastOpenFiles": [
+    "picoCTF/03 - Forensic/24.- Operation Orchid.md",
+    "picoCTF/03 - Forensic/25.- Operation Oni.md",
+    "picoCTF/03 - Forensic/23.-Sleuthkit Apprentice.md",
+    "picoCTF/03 - Forensic/22.-Sleuthkit Intro.md",
+    "picoCTF/03 - Forensic/21.- Disk, disk, sleuth!.md",
+    "picoCTF/03 - Forensic/20.- Milkslap.md",
+    "picoCTF/5.- Reversing/ASM3.md",
     "picoCTF/5.- Reversing/ASM2.md",
     "picoCTF/5.- Reversing/ASM1.md",
-    "picoCTF/5.- Reversing/ASM3.md",
     "picoCTF/5.- Reversing/7.- Timer.md",
     "picoCTF/5.- Reversing 1/ASM2.md",
     "picoCTF/5.- Reversing 1/ASM1.md",
@@ -206,12 +212,6 @@
     "Examen 1 - Web/JavaCodeAnalysis.md",
     "Examen 1 - Web/Bookmarklet.md",
     "Examen 1 - Web/Cookie Monster Secret Recipe.md",
-    "Examen 1 - Web/head-dump.md",
-    "Examen 1 - Web/findme.md",
-    "Examen 1 - Web/5-findme.md",
-    "Examen 1 - Web/3-head-dump.md",
-    "Examen 1 - Web/2-Cookie Monster Secret Recipe.md",
-    "Examen 1 - Web/1-Bookmarklet.md",
     "Examen 1 - Web",
     "Examen 1 - General Skills",
     "Sin título.base",
